@@ -7,7 +7,7 @@ if __name__ == "__main__":
     while True:
         toast.show_toast \
             ("Notification",
-             "==WATER BREAK! FULL GETCHASELF A FULL BOTTLE!==",
+             "==WATER BREAK! A FULL BOTTLE!==",
              duration=10,
              icon_path="icon.ico"
              )
